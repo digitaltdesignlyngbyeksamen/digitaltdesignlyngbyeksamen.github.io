@@ -5,17 +5,17 @@ God fornøjelse ;-) :
 
 # Afleveringsfrister
 
-**Søndag d.5/3 kl.23:00 : Aflevering af projektbeskrivelse**   
+### Søndag d.5/3 kl.23:00 : Aflevering af projektbeskrivelse
 
 Der udleveres eksamensoplæg i uge 8, og vi bruger uge 8+9 på at danne grupper, ide-generere og lave projektstyringsdokumenter med udgangspunkt i en af de nævnte ’projekt forslag’.  
 
-**Søndag d.7/5 kl.22:00 : Aflevering af rapport som en samlet pdf-fil på lectio**
+### Søndag d.7/5 kl.22:00 : Aflevering af rapport som en samlet pdf-fil på lectio
 
 Afleveringsdato vil fremgå på Lectio. Opgaven indeholder ca. ?? lektioner på skolen og ca. 33 t elevtid. Dvs. det samlede omfang af projektet er ca. ??? timer.  
 
 Der skal afleveres et produkt (et program / programsystem) og en rapport pr gruppe på Lectio – og måske kommer der også krav om at aflevere på netprøver.dk. Rapportens omfang er 15-30 normalsider for den første i en gruppe og 5-15 normalsider pr ekstra gruppemedlem.  
 
-**Tirsdag d.9/5 kl.12:00 : Aflevering af rapport som papir version i administrationen**  
+### Tirsdag d.9/5 kl.12:00 : Aflevering af rapport som papir version i administrationen  
 
 Rapporten skal ifølge skolens regler også afleveres i en fysisk version (måske 2 eksemplarer??)
 
