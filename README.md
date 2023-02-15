@@ -35,7 +35,7 @@ I skal udvikle et stykke software, der imødekommer en konkret problemstilling i
 - [Emne 3: grøn omstilling](emne3_klima.md)
 - [Emne 4: sundhed](emne4_sundhed.md)
 - [Emne 5: økonomi](emne5_money.md)
-- [Emne 6: valgfrit emne](emne6_valgfrimd)
+- [Emne 6: valgfrit emne](emne6_valgfri.md)
 
 Formålet med denne eksamen er at teste jeres færdigheder inden for digital design og udvikling og jeres evne til at anvende jeres viden i praksis til at løse reelle problemer. I skal demonstrere, hvordan I kan anvende jeres tekniske færdigheder til at udvikle en softwareapplikation, der imødekommer de udfordringer, der er forbundet med jeres valgte emne.   
 Husk på, at de valgte emner kun er forslag, og I er velkomne til at vælge et emne, der er mere relevant for jeres interesser og ekspertise. Det vigtigste er, at I anvender den problembaserede tilgang til at udvikle en softwareapplikation, der løser en konkret problemstilling og demonstrerer jeres færdigheder inden for digital design og udvikling.   
