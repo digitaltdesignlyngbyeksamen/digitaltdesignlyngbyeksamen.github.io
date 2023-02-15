@@ -9,17 +9,17 @@ God fornøjelse ;-) :
 
 # Afleveringsfrister
 
-**Aflevering af projektbeskrivelse:**  **_søndag d.5/3 kl.23:00_**  
+**Søndag d.5/3 kl.23:00 : Aflevering af projektbeskrivelse**   
 
 Der udleveres eksamensoplæg i uge 8, og vi bruger uge 8+9 på at danne grupper, ide-generere og lave projektstyringsdokumenter med udgangspunkt i en af de nævnte ’projekt forslag’.  
 
-**Aflevering af rapport som en samlet pdf-fil på lectio:** **_søndag d.7/5 2023 kl.22:00_**
+**Søndag d.7/5 kl.22:00 : Aflevering af rapport som en samlet pdf-fil på lectio**
 
 Afleveringsdato vil fremgå på Lectio. Opgaven indeholder ca. ?? lektioner på skolen og ca. 33 t elevtid. Dvs. det samlede omfang af projektet er ca. ??? timer.  
 
 Der skal afleveres et produkt (et program / programsystem) og en rapport pr gruppe på Lectio – og måske kommer der også krav om at aflevere på netprøver.dk. Rapportens omfang er 15-30 normalsider for den første i en gruppe og 5-15 normalsider pr ekstra gruppemedlem.  
 
-**Aflevering af rapport som papir version i administrationen:** **_tirsdag d. 9/5 2023 kl.12:00_**  
+**Tirsdag d.9/5 kl.12:00 : Aflevering af rapport som papir version i administrationen**  
 
 Rapporten skal ifølge skolens regler også afleveres i en fysisk version (måske 2 eksemplarer??)
 
@@ -52,7 +52,7 @@ Projektbeskrivelsen behøver ikke være af rapport kvalitet, men skal alligevel 
 
 Vejlederne skal godkende jeres projektbeskrivelse inden i er berettiget til at gå til eksamen!  
 
-[Et ddu-projekt indeholder følgende faser](../projektarbejdet/Elevversion%20-%20projektarbejdets%20forberedelsesfaser.pdf)
+<a href="https://digitaltdesignlyngby.github.io/projektarbejdet/Elevversion%20-%20projektarbejdets%20forberedelsesfaser.pdf" target="_blank">Et ddu-projekt indeholder følgende faser</a>
 
 ----------------------------------------------------------------------------------------
 
@@ -83,7 +83,7 @@ Ifølge pkt. 2.1 Kernestof i læreplanen, bør rapporten indeholde følgende emn
 
 **Forslag til opbygning af rapporten:**    
 
-[Forslag til rapportens opbygning](../rapport_opbygning.md)
+<a href="https://digitaltdesignlyngby.github.io/rapport_opbygning.html" target="_blank">Forslag til rapportens opbygning</a>  
 
 ----------------------------------------------------------------------------------------
 
