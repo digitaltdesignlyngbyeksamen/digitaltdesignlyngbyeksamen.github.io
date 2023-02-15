@@ -9,20 +9,17 @@ God fornøjelse ;-) :
 
 # Afleveringsfrister
 
-**_Aflevering af projektbeskrivelse:_**   
-**_søndag d.5/3 kl.23:00_**  
+**Aflevering af projektbeskrivelse:**  **_søndag d.5/3 kl.23:00_**  
 
 Der udleveres eksamensoplæg i uge 8, og vi bruger uge 8+9 på at danne grupper, ide-generere og lave projektstyringsdokumenter med udgangspunkt i en af de nævnte ’projekt forslag’.  
 
-**_Aflevering af rapport som en samlet pdf-fil på lectio:_**      
-**_søndag d.7/5 2023 kl.22:00_**
+**Aflevering af rapport som en samlet pdf-fil på lectio:** **_søndag d.7/5 2023 kl.22:00_**
 
 Afleveringsdato vil fremgå på Lectio. Opgaven indeholder ca. ?? lektioner på skolen og ca. 33 t elevtid. Dvs. det samlede omfang af projektet er ca. ??? timer.  
 
 Der skal afleveres et produkt (et program / programsystem) og en rapport pr gruppe på Lectio – og måske kommer der også krav om at aflevere på netprøver.dk. Rapportens omfang er 15-30 normalsider for den første i en gruppe og 5-15 normalsider pr ekstra gruppemedlem.  
 
-**_Aflevering af rapport som papir version i administrationen:_**   
-**_tirsdag d. 9/5 2023 kl.12:00_**  
+**Aflevering af rapport som papir version i administrationen:** **_tirsdag d. 9/5 2023 kl.12:00_**  
 
 Rapporten skal ifølge skolens regler også afleveres i en fysisk version (måske 2 eksemplarer??)
 
@@ -32,12 +29,12 @@ Rapporten skal ifølge skolens regler også afleveres i en fysisk version (måsk
 
 I skal udvikle et stykke software, der imødekommer en konkret problemstilling inden for et af følgende emner:
 
-- uddannelse
-- underholdning
-- grøn omstilling
-- sundhed
-- økonomi
-- valgfrit emne
+- Emne 1: uddannelse
+- Emne 2: underholdning
+- Emne 3: grøn omstilling
+- Emne 4: sundhed
+- Emne 5: økonomi
+- Emne 6: valgfrit emne
 
 Formålet med denne eksamen er at teste jeres færdigheder inden for digital design og udvikling og jeres evne til at anvende jeres viden i praksis til at løse reelle problemer. I skal demonstrere, hvordan I kan anvende jeres tekniske færdigheder til at udvikle en softwareapplikation, der imødekommer de udfordringer, der er forbundet med jeres valgte emne.   
 Husk på, at de valgte emner kun er forslag, og I er velkomne til at vælge et emne, der er mere relevant for jeres interesser og ekspertise. Det vigtigste er, at I anvender den problembaserede tilgang til at udvikle en softwareapplikation, der løser en konkret problemstilling og demonstrerer jeres færdigheder inden for digital design og udvikling.   
