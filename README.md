@@ -11,9 +11,9 @@ Der udleveres eksamensoplæg i uge 8, og vi bruger uge 8+9 på at danne grupper,
 
 ## Søndag d.7/5 kl.22:00 : Pdf-fil på lectio
 
-Afleveringsdato vil fremgå på Lectio. Opgaven indeholder ca. 90 lektioner på skolen og ca. 33 t elevtid. Dvs. det samlede omfang af projektet er ca. 123 timer.      
-Der skal afleveres et produkt (et program / programsystem) og en rapport pr gruppe på Lectio – og måske kommer der også krav om at aflevere på netprøver.dk.      
-Rapportens omfang er 15-30 normalsider for den første i en gruppe og 5-15 normalsider pr ekstra gruppemedlem.  
+Opgaven indeholder ca. 90 lektioner på skolen og ca. 33 t elevtid. Dvs. det samlede omfang af projektet er ca. 123 timer.         
+Der skal afleveres et produkt (et program / programsystem) og en rapport pr gruppe på Lectio.         
+Rapportens omfang er 15-30 normalsider for den første i en gruppe og 5-15 normalsider pr ekstra gruppemedlem.     
 
 ## Tirsdag d.9/5 kl.12:00 : Papir-version i administrationen  
 
