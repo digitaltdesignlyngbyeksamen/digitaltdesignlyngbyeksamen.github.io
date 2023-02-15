@@ -59,7 +59,7 @@ Vejlederne skal godkende jeres projektbeskrivelse inden i er berettiget til at g
 1. HUSK at arbejde problembaseret, ligesom i teknologi
 2. HUSK at begrunde alle valg med: kilder, dokumentation, teori og/eller empiri
 3. HUSK at  dokumentere projektstyringen grundigt, i særdeleshed processen
-4. HSUK at lave teknisk dokumentation: både kode-stumper og diagrammer   
+4. HUSK at lave teknisk dokumentation: både kode-stumper og diagrammer   
 
 **Kernestof - rapport:**     
 
@@ -99,7 +99,7 @@ Desuden skal det overvejes hvordan I håndterer: sikkerhed, GDPR, interaktionsde
 # Statusmøder
 
 Der vil forekomme statusmøder undervejs i eksamensprojektet.  
-Datoer og information følgerl.
+Datoer og information kommer senere.
 
 ----------------------------------------------------------------------------------------
 
