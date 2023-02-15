@@ -1,7 +1,3 @@
-# Eksamensprojektet
-
-----------------------------------------------------------------------------------------
-
 Nedenfor ses eksamensprojektoplæg og generel eksamensinformation for skoleåret 2022/2023.   
 God fornøjelse ;-) :
 
