@@ -4,13 +4,13 @@
 
 ## Møde 1 - Løvens hule
 
-| Møde 1        |               |
+|               |               |
 | ------------- | ------------- |
 | Formål        | Pitch         |
 | Præsentation  | 5 minutter    |
 | Samtale       | 5 minutter    |
 
-| Tidsplan      |               |
+|               |               |
 | --------------| --------------|
 | 12:10 - 12:25 | Alexander Hillerup Tuff, Gustav Spangler Frei, Martin Keith Buchreitz |
 | 12:25 - 12:40 | Alexander Rossau, Oliver Svanholm Kliim, Teodor Stadler |
