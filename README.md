@@ -99,7 +99,8 @@ Desuden skal det overvejes hvordan I håndterer: sikkerhed, GDPR, interaktionsde
 # Statusmøder
 
 Der vil forekomme statusmøder undervejs i eksamensprojektet.  
-Datoer og information kommer senere.
+
+[statusmøde-oversigt](statusmeets.md)
 
 ----------------------------------------------------------------------------------------
 
