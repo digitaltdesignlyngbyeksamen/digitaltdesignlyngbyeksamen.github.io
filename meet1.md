@@ -2,6 +2,7 @@
 
 |               |               |
 | ------------- | ------------- |
+| Dato          | Onsdag d.8/3  |
 | Formål        | Pitch         |
 | Præsentation  | 5 minutter    |
 | Samtale       | 5 minutter    |
