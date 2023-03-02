@@ -98,8 +98,8 @@ Desuden skal det overvejes hvordan I håndterer: sikkerhed, GDPR, interaktionsde
 
 # Statusmøder
 
-Der vil forekomme statusmøder undervejs i eksamensprojektet.
-statusmøderne kan have betydning for den afsluttende karakter.
+Der vil forekomme statusmøder undervejs i eksamensprojektet.  
+Vær opmærksom på at statusmøderne kan have betydning for den afsluttende karakter.
 
 [oversigt over statusmøde 1](meet1.md)
 
