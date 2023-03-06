@@ -7,21 +7,21 @@
 | Præsentation  | 5 minutter    |
 | Samtale       | 5 minutter    |
 
-|               |               |
-| --------------| --------------|
-| 12:10 - 12:25 | Alexander Hillerup Tuff, Gustav Spangler Frei, Martin Keith Buchreitz |
-| 12:25 - 12:40 | Alexander Rossau, Oliver Svanholm Kliim, Teodor Stadler |
-| 12:40 - 12:55 | Andreas Thrane Andersen, Gustav Egebjerg-Møller, Kristoffer Wienmann Biehl Christiansen |
-| 12:55 - 13:10 | Bagge Engelbrecht, Christoffer Andreas Vilstrup |
-| 13:10 - 13:25 | Cathrine Duedahl-Olesen, Jonatan David Falk Larsen, Jonathan Dyrekilde Sommerlund |
-| 13:25 - 13:40 | Christian Nkya, Marcus Christian Wad Sackett, Oscar Stilling |
-| 13:40 - 13:55 | Daniel N. Nielsen-Castrillon, Otto Thomsen, Sebastian Bøgestrand, Simon Jordan Andersen |
-| 13:55 - 14:10 | Antoni, Emil Bornholdt Lange |
-| 14:10 - 14:25 | Filip Lykke, Kasper Stevnbak Andersen, Marinus Næstoft Juhl, Oscar Holm Halkjær |
-| 14:25 - 14:40 | Benjamin, Oscar Olufsen |
-| 14:40 - 14:55 | Kian, Philip Thelin |
-| 14:55 - 15:10 | Holger, Rolf Karmark Andersen, Simon Stougaard |
-| 15:10 - 15:25 | Frederik, Theis Østergaard Hove, Tommy Krogh Andersen |
+|               |           |              |
+|---------------|-----------|--------------|
+| 12:10 - 12:25 | Gruppe 1  | Alexander Hillerup Tuff, Gustav Spangler Frei, Martin Keith Buchreitz |
+| 12:25 - 12:40 | Gruppe 2  | Alexander Rossau, Oliver Svanholm Kliim, Teodor Stadler |
+| 12:40 - 12:55 | Gruppe 3  | Andreas Thrane Andersen, Gustav Egebjerg-Møller, Kristoffer Wienmann Biehl Christiansen |
+| 12:55 - 13:10 | Gruppe 4  | Bagge Engelbrecht, Christoffer Andreas Vilstrup |
+| 13:10 - 13:25 | Gruppe 5  | Cathrine Duedahl-Olesen, Jonatan David Falk Larsen, Jonathan Dyrekilde Sommerlund |
+| 13:25 - 13:40 | Gruppe 6  | Christian Nkya, Marcus Christian Wad Sackett, Oscar Stilling |
+| 13:40 - 13:55 | Gruppe 7  | Daniel N. Nielsen-Castrillon, Otto Thomsen, Sebastian Bøgestrand, Simon Jordan Andersen |
+| 13:55 - 14:10 | Gruppe 8  | Antoni, Emil Bornholdt Lange |
+| 14:10 - 14:25 | Gruppe 9  | Filip Lykke, Kasper Stevnbak Andersen, Marinus Næstoft Juhl, Oscar Holm Halkjær |
+| 14:25 - 14:40 | Gruppe 10 | Benjamin, Oscar Olufsen |
+| 14:40 - 14:55 | Gruppe 11 | Kian, Philip Thelin |
+| 14:55 - 15:10 | Gruppe 12 | Holger, Rolf Karmark Andersen, Simon Stougaard |
+| 15:10 - 15:25 | Gruppe 13 |Frederik, Theis Østergaard Hove, Tommy Krogh Andersen |
 
 
 
