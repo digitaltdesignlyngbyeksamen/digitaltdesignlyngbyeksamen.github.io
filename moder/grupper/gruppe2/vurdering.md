@@ -1,7 +1,8 @@
-*Statusmøde 1 - Vurdering - Løvens hule*   
-*Gruppe 2*   
-*12:25 - 12:40 ... Alexander Rossau, Oliver Svanholm Kliim, Teodor Stadler*
-*GAMEENGINE-TOOL*
+*Statusmøde 1 - Vurdering - Løvens hule*     
+
+*GAMEENGINE-TOOL*   
+*GRUPPE 2 ... 12:25 - 12:40 ... Alexander Rossau, Oliver Svanholm Kliim, Teodor Stadler*
+
 --------------------------------------------------------------------------------------------
 
 [afleveret projektbeskrivelse](dokument.pdf)

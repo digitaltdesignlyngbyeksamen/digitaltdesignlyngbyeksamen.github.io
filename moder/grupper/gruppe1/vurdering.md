@@ -1,7 +1,8 @@
 *Statusmøde 1 - Vurdering- Løvens hule*   
-*GRUPPE 1*   
-*12:10 - 12:25 ... Alexander Hillerup Tuff, Gustav Spangler Frei, Martin Keith Buchreitz*
+
 *HORROR-SPIL*
+*GRUPPE 1 ... 12:10 - 12:25 ... Alexander Hillerup Tuff, Gustav Spangler Frei, Martin Keith Buchreitz*
+
 
 
 [afleveret projektbeskrivelse](dokument.pdf)
