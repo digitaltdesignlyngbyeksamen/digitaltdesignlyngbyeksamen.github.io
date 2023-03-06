@@ -26,12 +26,12 @@ Rapporten skal ifølge skolens regler også afleveres i en fysisk version (måsk
 
 I skal udvikle et stykke software, der imødekommer en konkret problemstilling inden for et af følgende emner (tryk for at læse mere om emnet):
 
-- [Emne 1: uddannelse](emne1_uddannelse.md)
-- [Emne 2: underholdning](emne2_underholdning.md)
-- [Emne 3: grøn omstilling](emne3_klima.md)
-- [Emne 4: sundhed](emne4_sundhed.md)
-- [Emne 5: økonomi](emne5_money.md)
-- [Emne 6: valgfrit emne](emne6_valgfri.md)
+- [Emne 1: uddannelse](emner/emne1_uddannelse.md)
+- [Emne 2: underholdning](emner/emne2_underholdning.md)
+- [Emne 3: grøn omstilling](emner/emne3_klima.md)
+- [Emne 4: sundhed](emner/emne4_sundhed.md)
+- [Emne 5: økonomi](emner/emne5_money.md)
+- [Emne 6: valgfrit emne](emner/emne6_valgfri.md)
 
 Formålet med denne eksamen er at teste jeres færdigheder inden for digital design og udvikling og jeres evne til at anvende jeres viden i praksis til at løse reelle problemer. I skal demonstrere, hvordan I kan anvende jeres tekniske færdigheder til at udvikle en softwareapplikation, der imødekommer de udfordringer, der er forbundet med jeres valgte emne.   
 Husk på, at de valgte emner kun er forslag, og I er velkomne til at vælge et emne, der er mere relevant for jeres interesser og ekspertise. Det vigtigste er, at I anvender den problembaserede tilgang til at udvikle en softwareapplikation, der løser en konkret problemstilling og demonstrerer jeres færdigheder inden for digital design og udvikling.   
@@ -101,7 +101,7 @@ Desuden skal det overvejes hvordan I håndterer: sikkerhed, GDPR, interaktionsde
 Der vil forekomme statusmøder undervejs i eksamensprojektet.  
 Vær opmærksom på at statusmøderne kan have betydning for den afsluttende karakter.
 
-[oversigt over statusmøde 1](meet1.md)
+[oversigt over statusmøde 1](meetings/meet1.md)
 
 ----------------------------------------------------------------------------------------
 
