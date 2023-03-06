@@ -7,14 +7,8 @@
 
 [afleveret projektbeskrivelse](dokument.pdf)
 
---------------------------------------------------------------------------------------------
+- Problem det tager længe at lave spil.... I har kilder der siger det tager langt tid .... er det gode kilder??? Der er ingen links eller dokumentation??????
 
-Problem det tager længe at lave spil.
-I har kilder der siger det tager langt tid .... er det gode kilder??? Der er ingen links eller dokumentation??????
-
---------------------------------------------------------------------------------------------
-
-Mangler en mere uddybende projekt-tidsplan.    
-Hvilke dele af programmet skal laves hvornår ???
+- Mangler en mere uddybende projekt-tidsplan.... Hvilke dele af programmet skal laves hvornår ???
 
 --------------------------------------------------------------------------------------------

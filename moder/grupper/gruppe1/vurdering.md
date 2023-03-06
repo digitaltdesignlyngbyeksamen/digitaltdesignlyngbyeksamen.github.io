@@ -3,9 +3,9 @@
 
 *HORROR-SPIL*
 
-[afleveret projektbeskrivelse](dokument.pdf)
-
 --------------------------------------------------------------------------------------------------------
+
+[afleveret projektbeskrivelse](dokument.pdf)
 
 - "Nøgleproblem: Der bliver lagt for meget fokus på action og hurtige chok (jump scares) i moderne  gyserspil" .... dette er ikke nødvendigvis et problem / Hvor er argumentet for det er et problem??????
 
@@ -15,3 +15,5 @@ derved forringer kvaliteten af nye horrorspil" .......har svært ved at se bevis
 
 - Jeres tidplan er ikke særlig relevant.... Vi vil gerne se hvordan i tænker at komme i mål med jeres projekt og ikke bare overskirifterne:
 Prob.ident./ Prob.analyse / Produkt princip / Produkt udformning / Produkt forberedelse /
+
+--------------------------------------------------------------------------------------------------------
