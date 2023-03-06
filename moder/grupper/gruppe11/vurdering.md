@@ -1,5 +1,4 @@
-*Statusmøde 1 - Vurdering- Løvens hule*
+*Statusmøde 1 - Vurdering- Løvens hule*   
+*GRUPPE 11 | 14:40 - 14:55 | Kian, Philip Thelin*   
 
 *...*
-
-*GRUPPE 11 | 14:40 - 14:55 | Kian, Philip Thelin*

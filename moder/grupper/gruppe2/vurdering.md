@@ -1,7 +1,7 @@
 *Statusmøde 1 - Vurdering - Løvens hule*     
+*GRUPPE 2 | 12:25 - 12:40 | Alexander Rossau, Oliver Svanholm Kliim, Teodor Stadler*
 
 *GAMEENGINE-TOOL*   
-*GRUPPE 2 ... 12:25 - 12:40 ... Alexander Rossau, Oliver Svanholm Kliim, Teodor Stadler*
 
 --------------------------------------------------------------------------------------------
 
