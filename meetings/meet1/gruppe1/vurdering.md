@@ -2,9 +2,26 @@
 
 *12:10 - 12:25 ... Alexander Hillerup Tuff, Gustav Spangler Frei, Martin Keith Buchreitz*
 
-[projektbeskrivelser/gruppe_1alexander_martin_gustav_projekt_bekrivelse.pdf](projektbeskrivelser/gruppe_1alexander_martin_gustav_projekt_bekrivelse.pdf)
+[gruppe_1alexander_martin_gustav_projekt_bekrivelse.pdf](/gruppe_1alexander_martin_gustav_projekt_bekrivelse.pdf)
 
 Prob.ident./ Prob.analyse / Produkt princip / Produkt udformning / Produkt forberedelse /
+
+--------------------------------------------------------------------------------------------------------
+
+Nøgleproblem: Der bliver lagt for meget fokus på action og hurtige chok (jump scares) i moderne  gyserspil, hvilket forringer genren.
+
+KOMMENTAR : Dette er ikke nødvendigvis et problem / Hvor er argumentet for det er et problem??????
+
+--------------------------------------------------------------------------------------------------------
+
+Vi er hermed kommet frem til problemformuleringen, det er et problem at for mange spil anvender
+populære skræmmeteknikker, der er baseret at skabe en reaktion i stedet for at skræmme spilleren og
+derved forringer kvaliteten af nye horrorspil.
+
+KOMMENTAR : Har svært ved at se beviset - i har kun kigget på årstallet at der er mange gode ældre titler ????
+
+--------------------------------------------------------------------------------------------------------
+
 
 
 *12:25 - 12:40 ... Alexander Rossau, Oliver Svanholm Kliim, Teodor Stadler*
