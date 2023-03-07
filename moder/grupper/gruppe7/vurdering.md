@@ -9,5 +9,6 @@
 - i mangler skitser af problemet
 - i mangler en tidsplan
 - det bliver svært at godkende
+- alt for mange mangler ...
 
 ----------------------------------------------------------------------------------

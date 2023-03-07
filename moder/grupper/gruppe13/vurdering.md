@@ -7,5 +7,8 @@
 
 [afleveret projektbeskrivelse](dokument.pdf)
 
--
+- Nøgleproblem : Det er et problem at mange har svært ved at styre og have overblik over deres privat økonomi
+- mangler reelt bud på en løsning ... 
+- mangler en tidsplan ...
+
 ----------------------------------------------------------------------------------
