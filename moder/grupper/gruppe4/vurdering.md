@@ -8,3 +8,13 @@
 Har ikke afleveret
 
 ----------------------------------------------------------------------------------
+
+Præsentation:
+
+- snuss-stop-app.... for ikke-ryge stoffer
+- nye funktioner der ikke er i ryge-stop apps
+- ingen skitser
+- målgruppe undersøgelse... endnu ikke lavet ...
+- 
+
+Vurdering : 00 eller 02

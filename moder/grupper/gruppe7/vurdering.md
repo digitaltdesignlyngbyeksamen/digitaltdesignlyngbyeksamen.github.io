@@ -12,3 +12,17 @@
 - alt for mange mangler ...
 
 ----------------------------------------------------------------------------------
+
+- chatapp der er krypteret ... 
+- folk har uvidenhed om kryptering
+- konkurrence med dem der ikke er krypteret / 
+
+spørgsmål
+- er det rigtigt at der ikke er nogen der ikke bruger dem?
+- hvad er målgruppen?
+- mangler et konkret udseende - hvordan skal den se ud?
+
+mangler:
+- konkret produkt...
+ 
+vurdering : 02 eller 4

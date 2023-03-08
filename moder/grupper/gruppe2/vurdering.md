@@ -12,3 +12,13 @@
 - Mangler en mere uddybende projekt-tidsplan.... Hvilke dele af programmet skal laves hvornår ???
 
 --------------------------------------------------------------------------------------------
+
+- overskuelige gameengine ...
+- mega sej løsning : 
+
+Kommentar:
+- hvor omfattende det er? 2D... laves inden for samme / eller proof of concept 
+- feedback på det i vil lave ...
+- målgruppen
+
+Vurdering 10 eller 12

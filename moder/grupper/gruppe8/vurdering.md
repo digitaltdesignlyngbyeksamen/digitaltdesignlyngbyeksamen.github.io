@@ -1,3 +1,5 @@
+
+
 *Statusmøde 1 - Vurdering- Løvens hule*   
 *GRUPPE 8 | 13:55 - 14:10 | Antoni, Emil Bornholdt Lange*
 
@@ -8,7 +10,11 @@
 
 - problem-orienteret metode : i mangler problemtræ ...
 - mangler forskellige løsningsforslag
-- en rapport fra ”Fraud Prevention Firm, SEON” ... hvilken rapport i skal have links til jeres kilder / eller info så de kan findes
 - projektplan skal ikke bare være datoer ...
 
 ----------------------------------------------------------------------------------
+
+PRÆSENTATION
+
+- 60 plus målgruppen / er det ikke et problem at det er et "plugin" ??
+- ...   

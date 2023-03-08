@@ -17,3 +17,17 @@ derved forringer kvaliteten af nye horrorspil" .......har svært ved at se bevis
 Prob.ident./ Prob.analyse / Produkt princip / Produkt udformning / Produkt forberedelse /
 
 --------------------------------------------------------------------------------------------------------
+
+Præsentation:
+
+- eksisterende gyser spil er ikke gyser-agtige / og de er AAA / bruger kun jump-scare
+- kommer ikke med noget helt nyt
+
+kommentar
+- holder beviset vand?
+- er der et marked?
+- er målegruppen defineret?
+
+MANGLER ET PRODUKT ...
+
+Vurdering 2 eller 4

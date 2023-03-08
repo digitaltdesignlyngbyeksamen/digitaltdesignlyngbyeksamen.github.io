@@ -13,3 +13,13 @@
 
 - Er det ikke bare casino ( det er jo ligegyldigt hvad de tabte penge går til )
 -------------------------------------------------------------------------------------------------------------------
+
+Præsentation:
+- ny målgruppe?
+- ...
+
+Kommentar : 
+- er det muligt at lave et casino overhovedet,- hvor meget skal man have i kapital
+- er det synligt at det går til træplantning.... svar : et leaderboard måske ???
+
+Vurdering : 4 eller 7
