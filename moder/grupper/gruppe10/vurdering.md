@@ -12,3 +12,9 @@
 - mangler projektstyring og deadlines...
 
 ----------------------------------------------------------------------------------
+
+Præsentation :
+
+- information når man scanner produkterne om hvorfor det sorteres... 
+
+vudering : 7 eller mere
