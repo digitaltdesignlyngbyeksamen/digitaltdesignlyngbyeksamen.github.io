@@ -3,8 +3,8 @@
 |               |               |
 | ------------- | ------------- |
 | Dato          | Onsdag d.29/3  |
-| Formål        | Demo & Projektstyring  |
-| Beskrivelse   | Vi forventer at i demonstrerer et fungerende program, der viser et udsnit af jeres væsentligste features. Desuden skal i gøre rede jeres projektstyring, hvad er der sket indtil nu og hvordan bliver i færdige til tiden |  
+| Formål        | Prototype & Demo & Projektstyring  |
+| Beskrivelse   | Vi vil gerne se en prototype-brugerundersøgelse, demonstration af et fungerende program med væsentlige features og projektstyring, der viser hvad er der sket indtil nu og hvordan i bliver færdige til tiden |  
 | Præsentation  | 7 minutter    |
 | Samtale       | 7 minutter    |
 
