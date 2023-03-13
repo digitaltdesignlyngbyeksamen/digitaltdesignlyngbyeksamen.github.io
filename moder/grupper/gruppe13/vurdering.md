@@ -12,3 +12,12 @@
 - mangler en tidsplan ...
 
 ----------------------------------------------------------------------------------
+
+Præsentation:
+...
+
+Forslag:
+- konkret løsning
+- projektstyring
+
+Vurdering : 7

@@ -10,4 +10,20 @@
 - meget fint
 - projektplanen kan man ikke læse ... 
 - mangler stadig en plan for hvad der reelt skal laves ...
+
 ----------------------------------------------------------------------------------
+
+PRÆSENTATION : 
+
+- langsom
+- links der ikke virker ...
+- lighthouse test
+- problemer med at redigere siden - mobil og 
+- next-js ... 
+
+Forslag fra...:
+- økonomi og hvem supporte fremadrettet
+
+vurdering : 10 eller 12
+----------------------------------------------------------------------------------
+

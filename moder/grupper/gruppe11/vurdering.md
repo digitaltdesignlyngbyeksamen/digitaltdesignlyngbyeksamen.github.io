@@ -8,3 +8,14 @@
 Har ikke afleveret
 
 ----------------------------------------------------------------------------------
+
+Præsentation : uddannelse
+
+- kodningsplatform ligesom khans akademy - quizer
+- produkt med videoer og quiz ....
+
+Kian kom ikke!!
+
+vurdering : 02
+
+----------------------------------------------------------------------------------
