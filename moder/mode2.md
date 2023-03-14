@@ -15,14 +15,14 @@
 | 12:50 - 13:10 | Gruppe 3  | Andreas Thrane Andersen, Gustav Egebjerg-Møller, Kristoffer Wienmann Biehl Christiansen |
 | 13:10 - 13:30 | Gruppe 4  | Bagge Engelbrecht, Christoffer Andreas Vilstrup |
 | 13:30 - 13:50 | Gruppe 5  | Cathrine Duedahl-Olesen, Jonatan David Falk Larsen, Jonathan Dyrekilde Sommerlund |
-| 14:10 - 14:30 | Gruppe 6  | Christian Nkya, Marcus Christian Wad Sackett, Oscar Stilling |
-| 14:30 - 14:50 | Gruppe 7  | Daniel N. Nielsen-Castrillon, Otto Thomsen, Sebastian Bøgestrand, Simon Jordan Andersen |
-| 14:50 - 15:10 | Gruppe 8  | Antoni, Emil Bornholdt Lange |
-| 15:10 - 15:30 | Gruppe 9  | Filip Lykke, Kasper Stevnbak Andersen, Marinus Næstoft Juhl, Oscar Holm Halkjær |
-| 15:30 - 15:50 | Gruppe 10 | Benjamin, Oscar Olufsen |
-| 15:50 - 16:10 | Gruppe 11 | Kian, Philip Thelin |
-| 16:10 - 16:30 | Gruppe 12 | Holger, Rolf Karmark Andersen, Simon Stougaard |
-| 16:30 - 16:50 | Gruppe 13 |Frederik, Theis Østergaard Hove, Tommy Krogh Andersen |
+| 13:50 - 14:10 | Gruppe 6  | Christian Nkya, Marcus Christian Wad Sackett, Oscar Stilling |
+| 14:10 - 14:30 | Gruppe 7  | Daniel N. Nielsen-Castrillon, Otto Thomsen, Sebastian Bøgestrand, Simon Jordan Andersen |
+| 14:30 - 14:50 | Gruppe 8  | Antoni, Emil Bornholdt Lange |
+| 15:50 - 15:10 | Gruppe 9  | Filip Lykke, Kasper Stevnbak Andersen, Marinus Næstoft Juhl, Oscar Holm Halkjær |
+| 15:10 - 15:30 | Gruppe 10 | Benjamin, Oscar Olufsen |
+| 15:30 - 16:50 | Gruppe 11 | Kian, Philip Thelin |
+| 16:50 - 16:10 | Gruppe 12 | Holger, Rolf Karmark Andersen, Simon Stougaard |
+| 16:10 - 16:30 | Gruppe 13 |Frederik, Theis Østergaard Hove, Tommy Krogh Andersen |
 
 
 
